@@ -1,4 +1,4 @@
-——————Git and GitHub learning resources——————chenyu
+——————Git and GitHub learning resources——————
 In this article
 Using Git
 Using GitHub
