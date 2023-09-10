@@ -1,4 +1,4 @@
-——————Git and GitHub learning resources———change 
+——————Git and GitHub learning resources———pull change
 In this article
 Using Git
 Using GitHub
