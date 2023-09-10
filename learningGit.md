@@ -1,4 +1,4 @@
-——————Git and GitHub learning resources——————
+——————Git and GitHub learning resources———happy everyday
 In this article
 Using Git
 Using GitHub
